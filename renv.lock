@@ -9,6 +9,16 @@
     ]
   },
   "Packages": {
+    "nortest": {
+      "Package": "nortest",
+      "Version": "1.0-4",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "stats"
+      ],
+      "Hash": "e587e7a30c737ad415590976481332e4"
+    },
     "renv": {
       "Package": "renv",
       "Version": "1.0.0",
