@@ -159,6 +159,16 @@
       ],
       "Hash": "e587e7a30c737ad415590976481332e4"
     },
+    "outliers": {
+      "Package": "outliers",
+      "Version": "0.15",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "2a7c7080df9a8a71d979a83dafdd28df"
+    },
     "pixmap": {
       "Package": "pixmap",
       "Version": "0.4-12",
