@@ -5,7 +5,7 @@ library("asbio") # carrega o pacote asbio
 dados <- NULL
 media <- 200
 mu_zero <- 190
-desv_pad <- 1.5
+desv_pad <- 3.0
 tamanho_amostral <- 14
 alpha <- 0.05
 
