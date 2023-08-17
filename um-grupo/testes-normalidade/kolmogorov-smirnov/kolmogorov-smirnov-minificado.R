@@ -10,3 +10,4 @@ result <- ks.test(
   desvio_padrao
 )
 print(result)
+body("ks.test")

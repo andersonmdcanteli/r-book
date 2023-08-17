@@ -83,10 +83,10 @@ print(result[[4]])
 #  note = {R package version 1.9-2},
 #}
 
+body("one.sample.z")
 
 
+ci.mu.z(dados)
 
-
-
-
+result$confidence 
 
